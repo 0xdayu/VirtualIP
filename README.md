@@ -4,7 +4,7 @@ README IP
 Design
 ------
 1.	NodeInterface and LinkInterface:
-	* NodeInterface: consist of UDP port, recv or send packet, a list of LinkInterface, it contains the configuration of this node.
+	* NodeInterface: consist of an UDP port, receive or send packet, a list of LinkInterface, it contains the configuration of this node.
 
 	* LinkInterface: link information and up or down.
 
